@@ -1,5 +1,5 @@
-# sample-test-two
-    [![Build Status](https://travis-ci.org/joaosoft/sample-test-two.svg?branch=master)](https://travis-ci.org/joaosoft/sample-test-two) | [![codecov](https://codecov.io/gh/joaosoft/sample-test-two/branch/master/graph/badge.svg)](https://codecov.io/gh/joaosoft/sample-test-two) | [![Go Report Card](https://goreportcard.com/badge/github.com/joaosoft/sample-test-two)](https://goreportcard.com/report/github.com/joaosoft/sample-test-two) | [![GoDoc](https://godoc.org/github.com/joaosoft/sample-test-two?status.svg)](https://godoc.org/github.com/joaosoft/sample-test-two)
+# sample-test-three
+    [![Build Status](https://travis-ci.org/joaosoft/sample-test-three.svg?branch=master)](https://travis-ci.org/joaosoft/sample-test-three) | [![codecov](https://codecov.io/gh/joaosoft/sample-test-three/branch/master/graph/badge.svg)](https://codecov.io/gh/joaosoft/sample-test-three) | [![Go Report Card](https://goreportcard.com/badge/github.com/joaosoft/sample-test-three)](https://goreportcard.com/report/github.com/joaosoft/sample-test-three) | [![GoDoc](https://godoc.org/github.com/joaosoft/sample-test-three?status.svg)](https://godoc.org/github.com/joaosoft/sample-test-three)
 
 A dummy project for test purposes.
 
@@ -15,7 +15,7 @@ Project dependencies are managed using Dep. Read more about [Dep](https://github
 
 >### Go
 ```
-go get github.com/joaosoft/sample-test-two
+go get github.com/joaosoft/sample-test-three
 ```
 
 ## Known issues

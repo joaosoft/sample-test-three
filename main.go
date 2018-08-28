@@ -7,10 +7,10 @@ import (
 )
 
 func main() {
-	fmt.Println(NewSampleTestTwo())
+	fmt.Println(NewSampleTestThree())
 }
 
-func NewSampleTestTwo() string {
-	logger.Info("executing info logger for sample-test-two")
-	return "hello, i'm the sample-test-two"
+func NewSampleTestThree() string {
+	logger.Info("executing info logger for sample-test-three TAGGED")
+	return "hello, i'm the sample-test-three TAGGED"
 }
